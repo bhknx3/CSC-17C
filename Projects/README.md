@@ -11,8 +11,8 @@ Mini project to practice and demonstrate C++ concepts such as:
 STL Library usage (containers, algorithms, iterators), Recursions, Sorts, Hash tables, Trees, etc.
 
 ## Screenshots
-![Example input](/img/exampleinput17c.png)
-![Example output](/img/exampleoutput17c.png)
+![Example input](https://github.com/bhknx3/CSC-17C/Projects/img/exampleinput17c.png)
+![Example output](https://github.com/bhknx3/CSC-17C/Projects/img/exampleoutput17c.png)
 
 
 ## Project/Files Info
