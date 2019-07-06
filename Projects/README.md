@@ -12,6 +12,8 @@ STL Library usage (containers, algorithms, iterators), Recursions, Sorts, Hash t
 
 ## Screenshots
 ![Example input](https://github.com/bhknx3/CSC-17C/blob/master/Projects/img/exampleinput17c.png)
+
+
 ![Example output](https://github.com/bhknx3/CSC-17C/blob/master/Projects/img/exampleoutput17c.png)
 
 
